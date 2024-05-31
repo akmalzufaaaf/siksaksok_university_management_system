@@ -1,2 +1,2 @@
-# siksaksok_university_management_system
+# SISSAKSOK
 University Management System
