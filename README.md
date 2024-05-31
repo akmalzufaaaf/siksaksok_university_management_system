@@ -1,2 +1,2 @@
-# SISSAKSOK
+# SIKSAKSOK - University Management System
 University Management System
